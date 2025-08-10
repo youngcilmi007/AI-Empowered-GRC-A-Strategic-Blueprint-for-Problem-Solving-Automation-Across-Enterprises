@@ -1,4 +1,4 @@
-# AI-Empowered-GRC-A-Strategic-Blueprint-for-Problem-Solving-Automation-Across-EnterprisesExecutive Summary
+# AI-Empowered-GRC                                                                          Summary
 In this project, I demonstrate a transformative approach to Governance, Risk, and Compliance (GRC), showcasing how I, as a GRC professional, can leverage advanced AI (specifically, large language models) and automation tools (Zapier, Google Sheets) to streamline policy management, proactive risk identification, and compliance workflows for any organization. I developed this strategic blueprint to democratize AI in GRC, enabling efficient, intelligent, and scalable operations without requiring deep technical coding expertise.
 
 Problem Statement: The GRC Challenge
